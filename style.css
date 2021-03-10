@@ -1,0 +1,21 @@
+body{
+  background-color: #e7e6e1;
+}
+
+hr {
+background-color: none;
+border-color: #314e52;
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+width: 10%;
+}
+
+h1 {
+  color:#314e52;
+  font-family: Georgia;
+}
+h3{
+  color:#314e52;
+  font-family: Georgia;
+}
